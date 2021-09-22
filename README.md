@@ -1,6 +1,6 @@
 # fruit-market-web-app
 A web app of my e-commerce store with dynamic pages
-<br></br>
+
 <h3>Video demostration</h3>
 https://youtu.be/zMQsmvnkHHI
 <br></br>
